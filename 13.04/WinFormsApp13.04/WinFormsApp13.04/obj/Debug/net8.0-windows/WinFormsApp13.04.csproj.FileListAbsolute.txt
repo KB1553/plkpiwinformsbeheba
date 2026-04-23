@@ -1,0 +1,16 @@
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\bin\Debug\net8.0-windows\WinFormsApp13.04.exe
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\bin\Debug\net8.0-windows\WinFormsApp13.04.deps.json
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\bin\Debug\net8.0-windows\WinFormsApp13.04.runtimeconfig.json
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\bin\Debug\net8.0-windows\WinFormsApp13.04.dll
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\bin\Debug\net8.0-windows\WinFormsApp13.04.pdb
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13._04.Form1.resources
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13.04.csproj.GenerateResource.cache
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13.04.AssemblyInfoInputs.cache
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13.04.AssemblyInfo.cs
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13.04.csproj.CoreCompileInputs.cache
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13.04.dll
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\refint\WinFormsApp13.04.dll
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13.04.pdb
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\WinFormsApp13.04.genruntimeconfig.cache
+C:\spectrxlnight\WinFormsApp13.04\WinFormsApp13.04\obj\Debug\net8.0-windows\ref\WinFormsApp13.04.dll

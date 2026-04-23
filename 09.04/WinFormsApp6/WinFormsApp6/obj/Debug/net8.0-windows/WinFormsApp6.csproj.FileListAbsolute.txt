@@ -1,0 +1,16 @@
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.exe
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.deps.json
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.runtimeconfig.json
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.dll
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\bin\Debug\net8.0-windows\WinFormsApp6.pdb
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.Form1.resources
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.csproj.GenerateResource.cache
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.AssemblyInfoInputs.cache
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.AssemblyInfo.cs
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.csproj.CoreCompileInputs.cache
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.dll
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\refint\WinFormsApp6.dll
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.pdb
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\WinFormsApp6.genruntimeconfig.cache
+C:\spectrxlnight\WinFormsApp6\WinFormsApp6\obj\Debug\net8.0-windows\ref\WinFormsApp6.dll
